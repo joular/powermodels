@@ -1,4 +1,4 @@
-# [![Joular Project](https://raw.githubusercontent.com/joular/.github/main/profile/joular.png](https://www.noureddine.org/research/joular/) Power Models Database :zap:
+# <a href="https://www.noureddine.org/research/joular/" target="_blank"><img src="https://raw.githubusercontent.com/joular/.github/main/profile/joular.png" alt="Joular Project" width="64" /></a> Power Models Database :zap:
 
 [![License: GPL v3](https://img.shields.io/badge/License-ODbLv1.0-blue)](https://opendatacommons.org/licenses/odbl/1-0/)
 
