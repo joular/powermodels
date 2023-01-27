@@ -36,6 +36,12 @@ In each folder, you'll find a JSON file describing the power model of the device
 |:--------------:|:---------------------:|:---------------------:|:---------------------:|
 | Dell P2722H | p2722h | Entire device | Brightness |
 
+## Use Cases
+
+These models are used and implemented in multiple projects and software, including:
+- [PowerJoular](https://github.com/joular/powerjoular)
+- [JoularJX](https://github.com/joular/joularjx)
+
 ## :newspaper: License
 
 The power models and database are licensed under the Open Data Commons Open Database License (ODbL) v1.0 (ODbL-1.0).
