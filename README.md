@@ -21,6 +21,7 @@ In each folder, you'll find a JSON file describing the power model of the device
 | Model 4 B (rev 1.2), 32-bit OS | rbp4b1.2 | CPU | CPU usage |
 | Model 4 B (rev 1.2), 64-bit OS | rbp4b1.2-64 | CPU | CPU usage |
 | Model 400 (rev 1.0), 64-bit OS | rbp4001.0-64 | CPU | CPU usage |
+| Model 5 B (rev 1.0), 64-bit OS | rbp5b1.0-64 | CPU | CPU usage |
 
 ### Asus Tinker Board
 
