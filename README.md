@@ -36,6 +36,7 @@ In each folder, you'll find a JSON file describing the power model of the device
 | Model | Codename | Component | Model Variable |
 |:--------------:|:---------------------:|:---------------------:|:---------------------:|
 | Dell P2722H | p2722h | Entire device | Brightness |
+| HP P22H | p22h | Entire device | Brightness |
 
 ## Use Cases
 
